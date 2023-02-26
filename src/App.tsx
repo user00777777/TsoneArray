@@ -6,7 +6,7 @@ import CycleNames from './Components/CycleNames';
 
 function App() {
 
-  const names = ["Alice", "Bob", "Charlie", "Dave"];
+  const names = ["Alic", "Bob", "Charlie", "Dave"];
   
   return(<div className='container'>
 
